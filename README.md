@@ -1,9 +1,10 @@
 # Multi Monitors Add-On
+This fork adds support for Gnome 47 and 48 to https://github.com/lazanet/multi-monitors-add-on. (By editing the metadata file, there are no code changes.)
 
 Fork of https://github.com/spin83/multi-monitors-add-on rewritten (almost) from scratch for gnome-shell version 46.
 
 # Versions
-- Branch [master](https://github.com/lazanet/multi-monitors-add-on/tree/master) contains extension for GNOME 46
+- Branch [master](https://github.com/lazanet/multi-monitors-add-on/tree/master) contains extension for GNOME 45, 46, 47, and 48
 - Branch [gnome-42_44](https://github.com/lazanet/multi-monitors-add-on/tree/gnome-42_44) contains extension for GNOME 42, 43, 44
 - Branch [gnome-3-32_3-36](https://github.com/spin83/multi-monitors-add-on/tree/gnome-3-32_3-36) contains extension for GNOME 3.32, 3.34 and 3.36
 - Branch [gnome-3-24_3-30](https://github.com/spin83/multi-monitors-add-on/tree/gnome-3-24_3-30) contains extension for GNOME 3.24, 3.26, 3.28 and 3.30
